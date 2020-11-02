@@ -1,4 +1,5 @@
-export interface Router {
-  
-}
+export default class Router {
+  constructor(){
 
+  }
+}
