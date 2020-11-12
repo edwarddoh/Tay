@@ -1,6 +1,5 @@
 import Router from './router';
 import Server from './server';
-import { Observable } from 'rxjs';
 
 import * as http from 'http';
 import * as https from 'https';
